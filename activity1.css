@@ -1,0 +1,96 @@
+.background1{ 
+	background-image: url("https://www.ghumindiaghum.com/blog/wp-content/uploads/2022/09/travel-agencie.jpg");
+	background-size: cover;
+	width: 100vw;
+	height: 100vh;
+}
+
+.style_for_block1{
+	text-align: right;
+	padding: 10px;
+}
+
+.style_for_block1_heading{
+	color: darkorange;
+	font-weight: bold;
+	font-size: 50px;
+	padding: 0px;
+}
+
+.style_for_block1_paragraph{
+	color: black;
+	font-size: 15px;
+}
+
+.button1{
+	border-radius: 20px;
+	border: 0px;
+	background-color: blue;
+	color: white;
+	height: 30px;
+	width: 80px;
+}
+
+.style_for_block2_heading{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.style_for_block2_paragraph{
+	color: white;
+	font-size: 10px;
+}
+
+.block2_box{
+	background-color: lightblue;
+	height: 200px;
+	width: 180px;
+	border-radius: 30px;
+	padding: 10px;
+	float: left;
+	margin: 10px;
+}
+
+
+.block2_images{
+	height: 50px;
+	widows: 50px;
+	border-radius: 50px;
+}
+
+.block4_place{
+	float: center;
+}
+
+.block6{
+	color: white;
+	font-size: 20px;
+
+}
+
+.block6_button1{
+	height: 30px;
+	width:  90px;
+	border-radius: 10px;
+	border: 0px;
+}
+
+.block6_button{
+	height: 30px;
+	width:  90px;
+	border-radius: 10px;
+	border: 0px;
+	background-color: orange;
+}
+
+.block8{
+	color: orange;
+	font-size: 60px;
+	padding: 10px;
+	text-align: bottom;
+}
+
+.block8_placeing{
+	padding: 20px;
+}

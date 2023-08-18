@@ -1,0 +1,36 @@
+.background{
+	background-color: #cfd1d0;
+	height: 100%;
+	width: 100%;
+}
+
+.modify{
+	float: right;
+}
+
+.fa-timer{
+	background-color: none;
+}
+
+.fa-ellipsis{
+	background-color: none;
+	
+}
+
+.fa-magnifying-glass{
+	background-color: none;
+	
+
+}
+
+.colorstyle{
+	color: white;
+}
+
+img{
+	height: 50px;
+	width: 40px;
+	border-radius: 100px;
+}
+
+

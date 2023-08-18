@@ -1,0 +1,34 @@
+.maindiv{
+	background-color: black;
+	height: 150px;
+	width: 1050px;
+}
+
+.subdiv1{
+	background-color: pink;
+	height: 100px;
+	width: 300px;
+	margin: 10px;
+	float: left;
+	padding: 10px;
+}
+
+.subdiv2{
+	background-color: blue;
+	height: 100px;
+	width: 300px;
+	margin: 10px;
+	float: left;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.subdiv3{
+	background-color: yellow;
+	height: 100px;
+	width: 300px;
+	margin: 10px;
+	float: right;
+	padding: 10px;
+	border-radius: 20px;
+}

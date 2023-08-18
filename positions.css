@@ -1,0 +1,29 @@
+.div1{
+	height: 300px;
+	width: 300px;
+	background-color: red;
+	float: left;
+	position: static;
+}
+.div2{
+	height: 300px;
+	width: 300px;
+	background-color: green;
+	float: left;
+	position: relative;
+}
+.div3{
+	height: 300px;
+	width: 300px;
+	background-color: yellow;
+	float: left;
+	top: 60px;
+	left: 30px;
+	position: absolute;
+}
+.div4{
+	height: 300px;
+	width: 300px;
+	background-color: blue;
+	float: left;
+}

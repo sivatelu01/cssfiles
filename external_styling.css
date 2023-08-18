@@ -1,0 +1,41 @@
+.external{ /*---------------------------- external selector*/ 
+	border: 3px solid red;
+	background-color: yellow;
+	font-size: 40px; 
+	padding: 20px;
+	text-align: center;
+	color: gray;
+}
+#abc{ /*---------------------------- id selector*/ 
+	border: 3px solid red;
+	background-color: black;
+	font-size: 40px; 
+	padding: 20px;
+	text-align: center;
+	color: pink;
+}
+
+P{  /*---------------------------- element selector*/  
+	color: red;
+	font-family: cursive;
+
+}
+* {  /*---------------------------- univarsal selector*/ 
+  text-align: center;
+  color: blue;
+}
+
+input[type]{
+	color: pink;
+}
+
+input[type="text"]{
+	color: yellow;
+}
+input[type="number"]{
+	color: blue;
+}
+a[href]{
+	background-color: pink;
+	color: white;
+}

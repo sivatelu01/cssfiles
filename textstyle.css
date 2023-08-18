@@ -1,0 +1,50 @@
+h1{
+	text-align: center;
+	color: red;
+	font-size: 100px;
+	text-shadow: 2px 2px yellow, 3px 3px blue;
+}
+
+p{
+	width: 400px;
+	border: 2px solid black;
+	text-align: justify;
+	text-transform: capitalize;
+	background-color: green;
+}
+
+.a{
+	background-color: black;
+	height: 400px;
+	width: 300px;
+	float: left;
+	border: 2px solid gray;
+}
+
+.b{
+	background-color: red;
+	height: 400px;
+	width: 300px;
+	float: left;
+	border: 2px solid blue;
+	/*display: none;*/
+	visibility: hidden;
+}
+
+.c{
+	background-color: yellow;
+	height: 400px;
+	width: 300px;
+	float: left;
+	border: 2px solid pink;
+}
+
+h2{
+	background: yellow;
+	display: inline;
+}
+
+span{
+	background: green;
+	display: block;
+}

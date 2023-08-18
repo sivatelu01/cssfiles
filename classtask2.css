@@ -1,0 +1,54 @@
+.div1{
+	
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+
+
+button{
+	border-radius: 5px;
+	border-width: 0px;
+	height: 30px;
+	width: 100px;
+	color: white;
+	margin-top: 5px;
+	
+}
+
+.b1{
+	background-color: green;
+}
+
+.b2{
+	background-color: lightblue;
+}
+.b5{
+	color: white;
+	border-radius: 5px;
+	border-width: 0px;
+	height: 30px;
+	width: 100px;
+	background-color: red;
+	margin-top: 5PX;
+	border-width: 0PX;
+	
+}
+
+img{
+	height: 80px;
+	width: 80px;
+	float: left;	
+	
+}
+
+.place{
+	float: right;
+}
+
+.div2img-para{
+	float: left;
+}
+

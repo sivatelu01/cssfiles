@@ -1,0 +1,22 @@
+.maindiv{
+	background-color: gray;
+	height: 300px;
+	width: 500px;
+	margin: 30px;
+	border: 40px solid red;
+	padding: 10px;
+	
+}
+.mainhead{
+	background-color: yellow;
+	color: black;
+	height: 200px;
+	text-align: center;
+	line-height: 200px;
+}
+
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}

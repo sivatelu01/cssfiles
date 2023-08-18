@@ -1,0 +1,16 @@
+div{
+	background-color: white;
+	text-align: center;
+	font-size: 20px;
+	margin: 10px;
+	width: 300px;
+	
+	border: 30px dotted red;
+	border-spacing: 5px;
+}
+
+ .background{
+ 	background-color: pink;
+ 	height: 170px;
+ 	padding: 10px;
+ }
